@@ -46,6 +46,7 @@ new class extends Component {
         $this->name = $permission->name;
 
         $this->modalStore = true;
+        // lol
     }
 
     public function change()
